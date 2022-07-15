@@ -1,0 +1,2 @@
+# Vaccination-Telegram-channel
+I extracted data from Telegram channel https://t.me/GamCOVIDVac about volunteers who tried vaccination in Russia. I made preprocessing of dataset such as  normalization, lemmatization, tokenization, stop-words removal. The following work is to create a model that would make sentiment analysis answering the question, are vaccines are good for health, or not, and which ones.
